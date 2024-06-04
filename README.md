@@ -1,1 +1,1 @@
-this is a spotify clone interface for practice using html,css.
+This is a spotify clone interface for practice using html,css.
